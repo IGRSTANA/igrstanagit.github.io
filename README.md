@@ -1,2 +1,2 @@
-# -igrstanagit.github.io
+# igrstanagit.github.io
 Curriculum jornada DEV
